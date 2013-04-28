@@ -1,0 +1,2 @@
+http\://www.springframework.org/schema/integration/trello=org.springframework.integration.trello.config.TrelloNamespaceHandler
+
